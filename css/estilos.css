@@ -2,14 +2,14 @@ body
 {
   text-align: center;
   font-family: Arial;
-  color: red;
+  color:#243;
   font-size: 16px;
   margin: 0;
   padding: 0;
 } 
 #cabecera
 {
-  background-color: #33a;
+  background-color: rgb(51, 170, 115);
   box-shadow: 0px 2px 20px 0px rgba(0, 0, 0, 0.5);
   color: white;
   margin: 0;
